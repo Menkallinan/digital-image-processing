@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>873088</id>
+      <name>fruits</name>
+      <size>40</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-08-28 23:51:10.213447+00:00</created>
+      <updated>2024-08-29 00:49:57.532366+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>39</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>1190911</id>
+          <start>0</start>
+          <stop>39</stop>
+          <url>https://app.cvat.ai/api/jobs/1188694</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>leonardo86</username>
+        <email>leonardo.luisimon@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>apple</name>
+          <color>#400080</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>avocado</name>
+          <color>#18d7b7</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>banana</name>
+          <color>#80c080</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>guava</name>
+          <color>#734e10</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>lemon</name>
+          <color>#6040a0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>mango</name>
+          <color>#e080e0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>melon</name>
+          <color>#04a3e4</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>nectarine</name>
+          <color>#cdb0ed</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>orange</name>
+          <color>#c0e0a0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>passion_fruit</name>
+          <color>#441a86</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-09-07 00:50:34.284832+00:00</dumped>
+  </meta>
+  <image id="0" name="0-01-V1-B.png" width="1000" height="1000">
+    <box label="apple" source="manual" occluded="0" xtl="292.96" ytl="329.59" xbr="703.60" ybr="727.26" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="0-01-V1-W.png" width="1000" height="1000">
+    <box label="apple" source="manual" occluded="0" xtl="268.10" ytl="280.96" xbr="731.69" ybr="724.02" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="0-01-V2-B.png" width="1000" height="1000">
+    <box label="apple" source="manual" occluded="0" xtl="252.30" ytl="352.02" xbr="656.26" ybr="731.50" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="0-01-V2-W.png" width="1000" height="1000">
+    <box label="apple" source="manual" occluded="0" xtl="273.70" ytl="266.90" xbr="716.30" ybr="730.40" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="0-02-V1-B.png" width="1000" height="1000">
+    <box label="avocado" source="manual" occluded="0" xtl="244.10" ytl="137.00" xbr="767.00" ybr="878.40" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="0-02-V1-W.png" width="1000" height="1000">
+    <box label="avocado" source="manual" occluded="0" xtl="173.70" ytl="155.70" xbr="833.00" ybr="838.30" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="0-02-V2-B.png" width="1000" height="1000">
+    <box label="avocado" source="manual" occluded="0" xtl="163.43" ytl="255.74" xbr="858.03" ybr="794.60" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="0-02-V2-W.png" width="1000" height="1000">
+    <box label="avocado" source="manual" occluded="0" xtl="110.30" ytl="199.25" xbr="875.90" ybr="806.54" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="0-03-V1-B.png" width="1000" height="1000">
+    <box label="banana" source="manual" occluded="0" xtl="237.20" ytl="118.31" xbr="849.20" ybr="814.70" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="0-03-V1-W.png" width="1000" height="1000">
+    <box label="banana" source="manual" occluded="0" xtl="276.10" ytl="101.60" xbr="719.40" ybr="959.00" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="0-03-V2-B.png" width="1000" height="1000">
+    <box label="banana" source="manual" occluded="0" xtl="129.10" ytl="237.88" xbr="865.28" ybr="708.65" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="0-03-V2-W.png" width="1000" height="1000">
+    <box label="banana" source="manual" occluded="0" xtl="305.94" ytl="69.60" xbr="753.36" ybr="908.11" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="0-04-V1-B.png" width="1000" height="1000">
+    <box label="guava" source="manual" occluded="0" xtl="308.69" ytl="329.94" xbr="688.60" ybr="653.15" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="0-04-V1-W.png" width="1000" height="1000">
+    <box label="guava" source="manual" occluded="0" xtl="316.60" ytl="320.95" xbr="686.25" ybr="692.80" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="0-04-V2-B.png" width="1000" height="1000">
+    <box label="guava" source="manual" occluded="0" xtl="340.90" ytl="315.69" xbr="658.34" ybr="711.20" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="0-04-V2-W.png" width="1000" height="1000">
+    <box label="guava" source="manual" occluded="0" xtl="311.10" ytl="304.37" xbr="682.59" ybr="689.60" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="0-05-V1-B.png" width="1000" height="1000">
+    <box label="lemon" source="manual" occluded="0" xtl="336.00" ytl="387.80" xbr="603.90" ybr="645.80" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="0-05-V1-W.png" width="1000" height="1000">
+    <box label="lemon" source="manual" occluded="0" xtl="359.56" ytl="366.00" xbr="644.10" ybr="660.90" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="0-05-V2-B.png" width="1000" height="1000">
+    <box label="lemon" source="manual" occluded="0" xtl="371.10" ytl="366.76" xbr="638.58" ybr="636.20" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="0-05-V2-W.png" width="1000" height="1000">
+    <box label="lemon" source="manual" occluded="0" xtl="357.20" ytl="364.00" xbr="648.98" ybr="653.30" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="0-06-V1-B.png" width="1000" height="1000">
+    <box label="mango" source="manual" occluded="0" xtl="247.20" ytl="289.02" xbr="766.80" ybr="746.20" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="0-06-V1-W.png" width="1000" height="1000">
+    <box label="mango" source="manual" occluded="0" xtl="245.98" ytl="217.35" xbr="795.70" ybr="820.10" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="0-06-V2-B.png" width="1000" height="1000">
+    <box label="mango" source="manual" occluded="0" xtl="246.40" ytl="276.70" xbr="778.80" ybr="726.30" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="0-06-V2-W.png" width="1000" height="1000">
+    <box label="mango" source="manual" occluded="0" xtl="192.10" ytl="252.40" xbr="824.00" ybr="755.83" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="0-07-V1-B.png" width="1000" height="1000">
+    <box label="melon" source="manual" occluded="0" xtl="61.80" ytl="106.10" xbr="946.10" ybr="889.00" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="0-07-V1-W.png" width="1000" height="1000">
+    <box label="melon" source="manual" occluded="0" xtl="64.10" ytl="6.20" xbr="943.60" ybr="985.70" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="0-07-V2-B.png" width="1000" height="1000">
+    <box label="melon" source="manual" occluded="0" xtl="105.90" ytl="66.10" xbr="895.00" ybr="945.60" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="0-07-V2-W.png" width="1000" height="1000">
+    <box label="melon" source="manual" occluded="0" xtl="58.01" ytl="2.90" xbr="923.90" ybr="993.70" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="0-08-V1-B.png" width="1000" height="1000">
+    <box label="nectarine" source="manual" occluded="0" xtl="335.60" ytl="361.70" xbr="697.30" ybr="684.50" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="0-08-V1-W.png" width="1000" height="1000">
+    <box label="nectarine" source="manual" occluded="0" xtl="309.01" ytl="321.85" xbr="696.00" ybr="715.05" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="0-08-V2-B.png" width="1000" height="1000">
+    <box label="nectarine" source="manual" occluded="0" xtl="302.60" ytl="338.19" xbr="668.40" ybr="672.50" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="0-08-V2-W.png" width="1000" height="1000">
+    <box label="nectarine" source="manual" occluded="0" xtl="308.90" ytl="328.40" xbr="702.27" ybr="681.30" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="0-09-V1-B.png" width="1000" height="1000">
+    <box label="orange" source="manual" occluded="0" xtl="251.68" ytl="293.40" xbr="715.30" ybr="721.30" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="0-09-V1-W.png" width="1000" height="1000">
+    <box label="orange" source="manual" occluded="0" xtl="274.80" ytl="258.90" xbr="720.39" ybr="769.40" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="0-09-V2-B.png" width="1000" height="1000">
+    <box label="orange" source="manual" occluded="0" xtl="267.19" ytl="344.90" xbr="681.90" ybr="813.40" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="0-09-V2-W.png" width="1000" height="1000">
+    <box label="orange" source="manual" occluded="0" xtl="283.80" ytl="260.10" xbr="742.35" ybr="779.10" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="0-10-V1-B.png" width="1000" height="1000">
+    <box label="passion_fruit" source="manual" occluded="0" xtl="98.70" ytl="272.40" xbr="836.30" ybr="747.20" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="0-10-V1-W.png" width="1000" height="1000">
+    <box label="passion_fruit" source="manual" occluded="0" xtl="124.60" ytl="204.60" xbr="826.57" ybr="780.22" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="0-10-V2-B.png" width="1000" height="1000">
+    <box label="passion_fruit" source="manual" occluded="0" xtl="282.10" ytl="129.30" xbr="746.30" ybr="860.70" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="0-10-V2-W.png" width="1000" height="1000">
+    <box label="passion_fruit" source="manual" occluded="0" xtl="76.10" ytl="252.53" xbr="845.30" ybr="781.51" z_order="0">
+    </box>
+  </image>
+</annotations>
